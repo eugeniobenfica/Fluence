@@ -35,7 +35,7 @@ Fluence is a powerful web development framework designed to streamline the creat
 2. Integrate Fluence into the Python environment with Labyrinth using the following command:
 
 ```bash
-python labyrinth.py add fluence.zip
+python labrt.py add fluence.zip
 ```
 
 Explore the possibilities with Fluence and elevate your web development experience. Simplify your workflow, enhance collaboration, and create stunning web applications with ease.
