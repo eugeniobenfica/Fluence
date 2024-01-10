@@ -31,8 +31,8 @@ Fluence is a powerful web development framework designed to streamline the creat
 
 ## Installation
 
-1. Download the Fluence module [here](https://github.com/Benfica7/Fluence/releases/download/v1.0.0-beta/fluence.zip).
-2. Integrate Fluence into the Python environment with [Labyrinth](https://github.com/Benfica7/Labyrinth) using the following command:
+1. Download the Fluence module [here](https://github.com/eugeniobenfica/Fluence/releases/download/v1.0.0-beta/fluence.zip).
+2. Integrate Fluence into the Python environment with [Labyrinth](https://github.com/eugeniobenfica/Labyrinth) using the following command:
 
 ```bash
 python labrt.py add fluence.zip
